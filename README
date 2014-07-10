@@ -1,0 +1,1 @@
+Вселенная создаетя в файлике universe.txt в корневом каталоге. Запуск игры - cd app/views &&  ruby universe_view.rb ../../universe.txt 5.
